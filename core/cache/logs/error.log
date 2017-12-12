@@ -1,0 +1,1372 @@
+[2017-12-08 12:56:46] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\ovk\project\app\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-08 13:12:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\ovk\project\app\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/namespace
+[2017-12-10 16:36:22] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\xpdo.class.php : 644) Could not load class: Migx from migx.
+[2017-12-10 16:36:22] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\xpdo.class.php : 1247) Problem getting service migx, instance of class Migx, from path C:/openserver/openserver/domains/CompletedProjects/modX/core/components/migx/model/migx/
+[2017-12-10 17:00:39] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\transport\modtransportpackage.class.php : 384) Невозможно открыть файл для чтения: migx-2.11.0-pl.transport.zip?revolution_version=Revolution-2.6.0-pl
+[2017-12-10 17:00:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\transport\modtransportpackage.class.php : 672) Could not retrieve from migx-2.11.0-pl.transport.zip?revolution_version=Revolution-2.6.0-pl
+[2017-12-10 17:00:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\transport\modtransportpackage.class.php : 435) MODX could not download the file. You must enable allow_url_fopen, cURL or fsockopen to use remote transport packaging.
+[2017-12-10 17:00:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\transport\modtransportpackage.class.php : 207) Невозможно осуществить передачу пакета migx-2.11.0-pl.transport.zip в C:/OpenServer/OpenServer/domains/CompletedProjects/modX/core/packages/.
+[2017-12-10 17:01:23] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\xpdo.class.php : 644) Could not load class: Migx from migx.
+[2017-12-10 17:01:23] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\xpdo.class.php : 1247) Problem getting service migx, instance of class Migx, from path C:/openserver/openserver/domains/CompletedProjects/modX/core/components/migx/model/migx/
+[2017-12-10 17:03:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/file
+[2017-12-10 17:04:06] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-11 10:39:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-12-11 10:41:56] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-11 10:44:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-11 10:53:37] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-11 10:54:01] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-11 11:03:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-11 11:03:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-11 11:03:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-11 11:14:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-11 11:14:37] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/4
+[2017-12-11 11:16:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-12-11 11:19:21] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 10:20:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 10:39:32] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 11:57:03] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 11:57:16] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because $CacheDirOldFilesSize is empty (phpthumb_functions::GetAllFilesInSubfolders(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) found no files) in file "phpthumb.class.php" on line 745
+    [8] =>                   file_exists() = 0 in file "phpthumb.class.php" on line 1419
+    [9] => file_exists_ignoreopenbasedir() = 0 in file "phpthumb.class.php" on line 1420
+    [10] =>                       is_file() = 0 in file "phpthumb.class.php" on line 1421
+    [11] =>                 is_executable() = 0 in file "phpthumb.class.php" on line 1422
+    [12] => ImageMagickThumbnailToGD() aborting because cannot find convert in $this->config_imagemagick_path (), and `which convert` returned () in file "phpthumb.class.php" on line 1453
+    [13] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [14] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [15] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [16] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [17] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [18] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [19] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [20] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [21] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [22] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [23] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [24] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [25] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [26] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [27] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [28] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [29] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [30] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [31] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [32] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [33] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [34] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [35] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [36] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [37] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [38] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [39] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:10:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:10:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:10:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:10:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:10:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:11:27] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 12:13:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:13:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:13:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:13:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:13:30] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:14:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:14:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:14:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:14:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:14:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:15:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:15:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:15:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:15:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:15:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:17:07] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:17:07] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:17:07] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:18:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:18:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:18:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:18:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:18:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:33] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-12 12:21:01] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-12 12:21:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because $CacheDirOldFilesSize is empty (phpthumb_functions::GetAllFilesInSubfolders(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) found no files) in file "phpthumb.class.php" on line 745
+    [8] =>                   file_exists() = 0 in file "phpthumb.class.php" on line 1419
+    [9] => file_exists_ignoreopenbasedir() = 0 in file "phpthumb.class.php" on line 1420
+    [10] =>                       is_file() = 0 in file "phpthumb.class.php" on line 1421
+    [11] =>                 is_executable() = 0 in file "phpthumb.class.php" on line 1422
+    [12] => ImageMagickThumbnailToGD() aborting because cannot find convert in $this->config_imagemagick_path (), and `which convert` returned () in file "phpthumb.class.php" on line 1453
+    [13] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [14] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [15] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [16] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [17] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [18] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [19] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [20] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [21] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [22] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [23] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [24] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [25] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [26] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [27] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [28] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [29] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [30] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [31] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [32] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [33] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [34] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [35] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [36] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [37] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [38] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [39] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:21:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:21:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:21:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:21:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:21:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:22:01] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:22:01] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:22:01] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:47] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:24:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name phpthumbof.
+[2017-12-12 12:26:22] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-12-12 12:26:22] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because $CacheDirOldFilesSize is empty (phpthumb_functions::GetAllFilesInSubfolders(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) found no files) in file "phpthumb.class.php" on line 745
+    [8] =>                   file_exists() = 0 in file "phpthumb.class.php" on line 1419
+    [9] => file_exists_ignoreopenbasedir() = 0 in file "phpthumb.class.php" on line 1420
+    [10] =>                       is_file() = 0 in file "phpthumb.class.php" on line 1421
+    [11] =>                 is_executable() = 0 in file "phpthumb.class.php" on line 1422
+    [12] => ImageMagickThumbnailToGD() aborting because cannot find convert in $this->config_imagemagick_path (), and `which convert` returned () in file "phpthumb.class.php" on line 1453
+    [13] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [14] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [15] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [16] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [17] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [18] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [19] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [20] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [21] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [22] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [23] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [24] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [25] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [26] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [27] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [28] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [29] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [30] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [31] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [32] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [33] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [34] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [35] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [36] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [37] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [38] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [39] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/1.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/1.jpg) set $this->sourceFilename to "assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg" = "67a8c781bc9a08c26d34720c7b9d9037" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/1.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/2.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/2.jpg) set $this->sourceFilename to "assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg" = "0b71671f433e6a72be066b6511d7bc8c" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/2.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h960_w1280_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="1280", h="960" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:26:24] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\components\phpthumbof\model\phpthumbof\phpthumbof.class.php : 379) [phpThumbOf] Could not generate thumbnail: assets/app/img/works/3.jpg - Debug: Array
+(
+    [0] => phpThumb() v1.7.14-201608101311 in file "phpthumb.class.php" on line 229
+    [1] => setCacheDirectory() starting with config_cache_directory = "C:/openserver/openserver/domains/CompletedProjects/modX/core/cache/phpthumb/" in file "phpthumb.class.php" on line 1005
+    [2] => setting config_cache_directory to $this->realPathSafe(C:\openserver\openserver\domains\CompletedProjects\modX\core\cache\phpthumb) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb" in file "phpthumb.class.php" on line 1033
+    [3] => setCacheDirectory() starting with config_cache_directory = "C:/OpenServer/OpenServer/domains/CompletedProjects/modX/assets/components/phpthumbof/cache/" in file "phpthumb.class.php" on line 1005
+    [4] => setting config_cache_directory to $this->realPathSafe(C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache) = "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache" in file "phpthumb.class.php" on line 1033
+    [5] => setSourceFilename(assets/app/img/works/3.jpg) set $this->sourceFilename to "assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 294
+    [6] => CleanUpCacheDirectory() set to purge (30.0 days; 100.00 MB; 10,000 files) in file "phpthumb.class.php" on line 712
+    [7] => CleanUpCacheDirectory() skipped because "C:\OpenServer\OpenServer\domains\CompletedProjects\modX\assets\components\phpthumbof\cache\phpThumbCacheStats.txt" is recently modified in file "phpthumb.class.php" on line 722
+    [8] => $AvailableImageOutputFormats = array(text;ico;bmp;wbmp;gif;png;jpeg) in file "phpthumb.class.php" on line 969
+    [9] => $this->thumbnailFormat set to $this->config_output_format "jpeg" in file "phpthumb.class.php" on line 980
+    [10] => $this->thumbnailFormat set to $this->f "jpeg" in file "phpthumb.class.php" on line 987
+    [11] => $this->thumbnailQuality set to "75" in file "phpthumb.class.php" on line 997
+    [12] => $this->sourceFilename set to "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" in file "phpthumb.class.php" on line 894
+    [13] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [14] => SetCacheFilename() _src set from md5($this->sourceFilename) "C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg" = "22a55d5ea0fb29484051012677702056" in file "phpthumb.class.php" on line 3520
+    [15] => SetCacheFilename() _par set from md5(_farC_zc1_h480_w640_dpi150_q75) in file "phpthumb.class.php" on line 3553
+    [16] => starting ExtractEXIFgetImageSize() in file "phpthumb.class.php" on line 3314
+    [17] => getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) says image is x in file "phpthumb.class.php" on line 3324
+    [18] => getimagesize("C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg") failed in file "phpthumb.class.php" on line 3357
+    [19] => $this->useRawIMoutput=true after checking $UnAllowedParameters in file "phpthumb.class.php" on line 1595
+    [20] => ImageMagickThumbnailToGD() aborting because ImageMagickCommandlineBase() failed in file "phpthumb.class.php" on line 2293
+    [21] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3364
+    [22] => SetOrientationDependantWidthHeight() starting with ""x"" in file "phpthumb.class.php" on line 3293
+    [23] => SetOrientationDependantWidthHeight() setting w="640", h="480" in file "phpthumb.class.php" on line 3309
+    [24] => EXIF thumbnail extraction: (size=0; type=""; 0x0) in file "phpthumb.class.php" on line 3421
+    [25] => starting SourceImageToGD() in file "phpthumb.class.php" on line 3679
+    [26] => starting ImageCreateFromFilename(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3594
+    [27] => empty $filename or getimagesize(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) failed in file "phpthumb.class.php" on line 3643
+    [28] => Populating $rawimagedata in file "phpthumb.class.php" on line 3651
+    [29] => cannot fopen(C:/OpenServer/OpenServer/domains/CompletedProjects/modX//modX/assets/app/img/works/3.jpg) in file "phpthumb.class.php" on line 3662
+    [30] => Not using EXIF thumbnail data because $this->exif_thumbnail_data is empty in file "phpthumb.class.php" on line 3751
+    [31] => $this->gdimg_source is still empty in file "phpthumb.class.php" on line 3803
+    [32] => ImageMagickThumbnailToGD() failed in file "phpthumb.class.php" on line 3805
+    [33] => phpThumb() v1.7.14-201608101311
+http://phpthumb.sourceforge.net
+
+Error messages disabled.
+
+edit phpThumb.config.php and (temporarily) set
+$PHPTHUMB_CONFIG['disable_debug'] = false;
+to view the details of this error in file "phpthumb.class.php" on line 4126
+    [34] => SourceImageToGD() failed in file "phpthumb.class.php" on line 374
+)
+
+[2017-12-12 12:29:29] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-12 12:37:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-12-12 12:40:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
