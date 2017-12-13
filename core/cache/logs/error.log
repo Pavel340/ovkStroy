@@ -1370,3 +1370,139 @@ Array
 
 [2017-12-12 12:37:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
 [2017-12-12 12:40:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:17] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:28] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:28] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:28] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:25:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-13 09:25:56] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:27] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:27] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:27] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:31:59] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:32:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:34:08] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:36:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-13 09:38:58] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src7778fd3fed785bd175bfacb9a27ac653_par0ba78bb0326502335f8683fdf331013a_dat1500000537.jpeg
+[2017-12-13 09:38:58] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-13 09:40:23] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:41:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:51] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:51] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:42:53] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__srcb4c934fdf10dab4991c8c2c8d22952e3_par0ba78bb0326502335f8683fdf331013a_dat1499999899.jpeg
+[2017-12-13 09:43:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:43:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:10] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-13 09:44:10] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-13 09:44:25] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
