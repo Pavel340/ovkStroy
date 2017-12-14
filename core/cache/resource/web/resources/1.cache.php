@@ -25,7 +25,7 @@
     'createdby' => 1,
     'createdon' => 1512726934,
     'editedby' => 1,
-    'editedon' => 1513071816,
+    'editedon' => 1513236121,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -96,7 +96,15 @@
     'cert' => 
     array (
       0 => 'cert',
-      1 => '[{"MIGX_id":"1","title":"Сертификат #1","galleryImage":"assets/app/img/certificate/certificate.jpg"},{"MIGX_id":"2","title":"Сертификат #2","galleryImage":"assets/app/img/certificate/certificate_2.jpg"}]',
+      1 => '[{"MIGX_id":"1","title":"\\u0421\\u0435\\u0440\\u0442\\u0438\\u0444\\u0438\\u043a\\u0430\\u0442 #1","galleryImage":"assets\\/app\\/img\\/certificate\\/certificate.jpg"},{"MIGX_id":"2","title":"\\u0421\\u0435\\u0440\\u0442\\u0438\\u0444\\u0438\\u043a\\u0430\\u0442 #2","galleryImage":"assets\\/app\\/img\\/certificate\\/certificate_2.jpg"}]',
+      2 => 'default',
+      3 => NULL,
+      4 => 'migx',
+    ),
+    'portfolio' => 
+    array (
+      0 => 'portfolio',
+      1 => '[{"MIGX_id":"1","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/1.jpg"},{"MIGX_id":"2","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/2.jpg"},{"MIGX_id":"3","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/3.jpg"},{"MIGX_id":"4","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/4.jpg"},{"MIGX_id":"5","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/5.jpg"},{"MIGX_id":"6","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/6.jpg"},{"MIGX_id":"7","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/7.jpg"},{"MIGX_id":"8","title":"Историческое здание - особняк представительского класса","address":"Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.","description":"Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.","imagePort":"assets/app/img/works/8.jpg"}]',
       2 => 'default',
       3 => NULL,
       4 => 'migx',
@@ -388,7 +396,7 @@
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -401,7 +409,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -431,13 +439,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -450,7 +456,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -480,13 +486,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -499,7 +503,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -529,13 +533,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -548,7 +550,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -578,13 +580,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -597,7 +597,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -627,13 +627,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -646,7 +644,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -676,13 +674,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -695,7 +691,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -725,13 +721,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -744,7 +738,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1670,6 +1664,386 @@
 		</div>
 
 	</section>',
+    '[[getImageList?
+					&tvname=`portfolio`
+					&tpl=`portfolioItem`
+					&docid=`1`]]' => '<div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+
+						<a href="#" class="portfolio-item">
+
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
+							<div class="portfolio-item-content">
+								<i class="fa fa-search-plus"></i> <br>
+								<h3>Историческое здание - особняк представительского класса</h3>
+							</div>
+
+							<span class="hidden">
+
+								<span class="portfolio-popup">
+									<span class="container-fluid">
+
+										<span class="row">
+											<span class="col-sm-12">
+												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
+											</span>
+										</span>
+
+										<span class="row">
+											<span class="col-sm-12">
+												<span class="h2">Историческое здание - особняк представительского класса</span>
+											</span>
+										</span>
+
+										<span class="portfolio-popup-text clearfix">
+											<span class="row">
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
+													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
+												</span>
+												<span class="col-sm-6">
+													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
+													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
+												</span>
+											</span>
+										</span>
+
+									</span>
+								</span>
+
+							</span>
+
+						</a>
+
+					</div>',
     '[[$s-works]]' => '<section class="s-wide s-dark s-works">
 
 		<div class="container-fluid">
@@ -1684,7 +2058,7 @@
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1697,7 +2071,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1727,13 +2101,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1746,7 +2118,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1776,13 +2148,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1795,7 +2165,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1825,13 +2195,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1844,7 +2212,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1874,13 +2242,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1893,7 +2259,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1923,13 +2289,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1942,7 +2306,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -1972,13 +2336,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -1991,7 +2353,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -2021,13 +2383,11 @@
 
 						</a>
 
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
 
 						<a href="#" class="portfolio-item">
 
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Alt">
+							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
 							<div class="portfolio-item-content">
 								<i class="fa fa-search-plus"></i> <br>
 								<h3>Историческое здание - особняк представительского класса</h3>
@@ -2040,7 +2400,7 @@
 
 										<span class="row">
 											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Alt">
+												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Историческое здание - особняк представительского класса">
 											</span>
 										</span>
 
@@ -3199,397 +3559,10 @@
 
 				<div class="portfolio clearfix">
 
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
+					[[getImageList?
+					&tvname=`portfolio`
+					&tpl=`portfolioItem`
+					&docid=`1`]]
 
 				</div>
 
@@ -3598,7 +3571,9 @@
 
 	</section>',
           'locked' => false,
-          'properties' => NULL,
+          'properties' => 
+          array (
+          ),
           'static' => false,
           'static_file' => '',
           'content' => '<section class="s-wide s-dark s-works">
@@ -3611,397 +3586,10 @@
 
 				<div class="portfolio clearfix">
 
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/1.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/1.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/2.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/2.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/3.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/3.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/4.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/4.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/5.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/5.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/6.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/6.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/7.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/7.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6">
-
-						<a href="#" class="portfolio-item">
-
-							<img class="responsive-img portfolio-img" src="assets/app/img/works/8.jpg" alt="Alt">
-							<div class="portfolio-item-content">
-								<i class="fa fa-search-plus"></i> <br>
-								<h3>Историческое здание - особняк представительского класса</h3>
-							</div>
-
-							<span class="hidden">
-
-								<span class="portfolio-popup">
-									<span class="container-fluid">
-
-										<span class="row">
-											<span class="col-sm-12">
-												<img class="responsive-img" src="assets/app/img/works/8.jpg" alt="Alt">
-											</span>
-										</span>
-
-										<span class="row">
-											<span class="col-sm-12">
-												<span class="h2">Историческое здание - особняк представительского класса</span>
-											</span>
-										</span>
-
-										<span class="portfolio-popup-text clearfix">
-											<span class="row">
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-map-marker"></i> <strong>Адрес:</strong></span>
-													<span class="td">Москва, м. Тверская, переулок Большой Гнездниковский, дом 3.</span>
-												</span>
-												<span class="col-sm-6">
-													<span class="td wsnw"><i class="fa fa-cog"></i> <strong>Работы:</strong></span>
-													<span class="td">Проектирование и монтаж систем вентиляции, кондиционирования, дымоудаления, отопления.</span>
-												</span>
-											</span>
-										</span>
-
-									</span>
-								</span>
-
-							</span>
-
-						</a>
-
-					</div>
+					[[getImageList?
+					&tvname=`portfolio`
+					&tpl=`portfolioItem`
+					&docid=`1`]]
 
 				</div>
 

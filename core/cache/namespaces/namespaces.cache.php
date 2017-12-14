@@ -41,6 +41,12 @@
     'path' => 'C:/OpenServer/OpenServer/domains/CompletedProjects/modX/core/components/phpthumbof/',
     'assets_path' => '',
   ),
+  'phpthumbon' => 
+  array (
+    'name' => 'phpthumbon',
+    'path' => 'C:/OpenServer/OpenServer/domains/CompletedProjects/modX/core/components/phpthumbon/',
+    'assets_path' => '',
+  ),
   'tinymce' => 
   array (
     'name' => 'tinymce',
