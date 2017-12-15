@@ -5,6 +5,12 @@
     'path' => 'C:/OpenServer/OpenServer/domains/CompletedProjects/modX/core/components/ace/',
     'assets_path' => '',
   ),
+  'autotemplate' => 
+  array (
+    'name' => 'autotemplate',
+    'path' => 'C:/OpenServer/OpenServer/domains/CompletedProjects/modX/core/components/autotemplate/',
+    'assets_path' => '',
+  ),
   'collections' => 
   array (
     'name' => 'collections',

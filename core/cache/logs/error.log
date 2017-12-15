@@ -2159,3 +2159,109 @@ Array
 [2017-12-14 10:47:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
 [2017-12-14 10:47:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
 [2017-12-14 10:47:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:06:55] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:06:56] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:06:56] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:07:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:07:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:07:35] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:08:18] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-15 10:10:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-15 10:10:13] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'modxovk.modManagerLog.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2017-12-15 10:16:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\xpdo\om\xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-12-15 10:17:11] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:17:11] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:17:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:17:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:19:00] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src049d531b5aba7067f06046b0b28570c7_par0ba78bb0326502335f8683fdf331013a_dat1500001084.jpeg
+[2017-12-15 10:19:00] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:19:16] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src049d531b5aba7067f06046b0b28570c7_par0ba78bb0326502335f8683fdf331013a_dat1500001084.jpeg
+[2017-12-15 10:19:16] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:19:39] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:19:39] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:19:40] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:21:34] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:21:34] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:21:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src049d531b5aba7067f06046b0b28570c7_par0ba78bb0326502335f8683fdf331013a_dat1500001084.jpeg
+[2017-12-15 10:21:41] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:23:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:23:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:23:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:23:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:23:50] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:23:50] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:25:15] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:25:15] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:26:14] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src7a5285d4b429983673a9f08979cc6542_par0ba78bb0326502335f8683fdf331013a_dat1500027349.jpeg
+[2017-12-15 10:26:14] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:26:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src7a5285d4b429983673a9f08979cc6542_par0ba78bb0326502335f8683fdf331013a_dat1500027349.jpeg
+[2017-12-15 10:26:19] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:20] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:26:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:28:55] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:28:55] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:31:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src2bb448d21802eec11dba035b363084c8_par0ba78bb0326502335f8683fdf331013a_dat1500001594.jpeg
+[2017-12-15 10:31:48] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:31:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:31:52] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:32:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src2ede1b283fbe436d45a1dac6c47b9fbb_par0ba78bb0326502335f8683fdf331013a_dat1500001470.jpeg
+[2017-12-15 10:32:38] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:32:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src2ede1b283fbe436d45a1dac6c47b9fbb_par0ba78bb0326502335f8683fdf331013a_dat1500001470.jpeg
+[2017-12-15 10:32:43] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:33:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\cache\phpthumb\completedprojects__src9166fb452c8a7cea7834d4b822fa27df_par0ba78bb0326502335f8683fdf331013a_dat1500000041.jpeg
+[2017-12-15 10:33:12] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-12-15 10:33:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:33:44] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:33:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:33:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:33:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.
+[2017-12-15 10:33:45] (ERROR @ C:\OpenServer\OpenServer\domains\CompletedProjects\modX\core\model\modx\modparser.class.php : 538) Could not find snippet with name getImagesList.

@@ -176,7 +176,7 @@
 					<div class="col-sm-7 col-md-pull-3">
 
 						<nav class="main-mnu hidden-md hidden-sm hidden-xs">
-							<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie.html" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
+							<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie/" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
 						</nav>
 
 					</div>
@@ -184,7 +184,7 @@
 					<div class="col-xs-12">
 
 						<nav class="main-mnu hidden-mnu hidden-lg clearfix">
-						    <ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie.html" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
+						    <ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie/" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
 						</nav>
 
 					</div>
@@ -789,22 +789,60 @@
 				<div class="col-sm-12">
 					<div class="row">
 						<div class="carousel-eq">
-
-							<div class="carousel-item">
+						    
+						    <div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
 									</div>
 									<div class="carousel-text">
-										<h3>Korf</h3>
-										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
+										<h3>Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/venterra.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Копия Venterra">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
+									</div>
+									<a href="oborudovanie/kopiya-venterra.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Копия Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/kopiya-mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
@@ -814,66 +852,49 @@
 										<h3>Daikin</h3>
 										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/daikin.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Копия Daikin">
 									</div>
 									<div class="carousel-text">
-										<h3>Mitsubishi Electric</h3>
-										<p>Мицубиси Электрик» — глобальный лидер в области электроники и электронного оборудования</p>
+										<h3>Копия Daikin</h3>
+										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/kopiya-daikin.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
 									</div>
 									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
+										<h3>Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/korf.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Копия Korf">
 									</div>
 									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
+										<h3>Копия Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/kopiya-korf.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
+						    
 						</div>
 
 					</div>
@@ -1344,7 +1365,7 @@
 </head>
 
 <body class="ishome">',
-    '[[pdoMenu? &parents=`0` &level=`1`]]' => '<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie.html" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>',
+    '[[pdoMenu? &parents=`0` &level=`1`]]' => '<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie/" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>',
     '[[getImageList?
 						    &tvname=`home-list`
 						    &tpl=`@CODE:<li><i class="fa fa-check"></i> [[+title]]</li>`
@@ -1381,7 +1402,7 @@
 					<div class="col-sm-7 col-md-pull-3">
 
 						<nav class="main-mnu hidden-md hidden-sm hidden-xs">
-							<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie.html" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
+							<ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie/" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
 						</nav>
 
 					</div>
@@ -1389,7 +1410,7 @@
 					<div class="col-xs-12">
 
 						<nav class="main-mnu hidden-mnu hidden-lg clearfix">
-						    <ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie.html" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
+						    <ul class=""><li class="first active"><a href="/modX/" >Главная</a></li><li><a href="montazh.html" >Монтаж</a></li><li><a href="proektirovanie.html" >Проектирование</a></li><li><a href="oborudovanie/" >Оборудование</a></li><li class="last"><a href="kontaktyi.html" >Контакты</a></li></ul>
 						</nav>
 
 					</div>
@@ -2438,6 +2459,117 @@
 		</div>
 
 	</section>',
+    '[[pdoResources?
+						    &parents=`7`
+						    &depth=`0`
+						    &tpl=`eqItem`
+						    &includeTVs=`image`
+						    &processTVs=`image`
+						    &limit=`0`
+						    &includeContent=`1`]]' => '<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
+									</div>
+									<div class="carousel-text">
+										<h3>Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
+									</div>
+									<a href="oborudovanie/venterra.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Копия Venterra">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
+									</div>
+									<a href="oborudovanie/kopiya-venterra.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Копия Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/kopiya-mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Daikin">
+									</div>
+									<div class="carousel-text">
+										<h3>Daikin</h3>
+										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
+									</div>
+									<a href="oborudovanie/daikin.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Копия Daikin">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Daikin</h3>
+										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
+									</div>
+									<a href="oborudovanie/kopiya-daikin.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
+									</div>
+									<div class="carousel-text">
+										<h3>Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
+									</div>
+									<a href="oborudovanie/korf.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Копия Korf">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
+									</div>
+									<a href="oborudovanie/kopiya-korf.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>',
     '[[$s-equipment]]' => '<section class="s-wide s-equipment">
 
 		<div class="container">
@@ -2450,22 +2582,60 @@
 				<div class="col-sm-12">
 					<div class="row">
 						<div class="carousel-eq">
-
-							<div class="carousel-item">
+						    
+						    <div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
 									</div>
 									<div class="carousel-text">
-										<h3>Korf</h3>
-										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
+										<h3>Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/venterra.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Копия Venterra">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Venterra</h3>
+										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических&#8230;</p>
+									</div>
+									<a href="oborudovanie/kopiya-venterra.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
+								<div class="carousel-wrap">
+									<div class="car-img-wrap">
+										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Копия Mitsubishi Electric">
+									</div>
+									<div class="carousel-text">
+										<h3>Копия Mitsubishi Electric</h3>
+										<p>Мицубиси Электрик — глобальный лидер в области электроники и электронного оборудования</p>
+									</div>
+									<a href="oborudovanie/kopiya-mitsubishi-electric.html" class="button button-small button-gray">Перейти в каталог</a>
+								</div>
+							</div>
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
@@ -2475,66 +2645,49 @@
 										<h3>Daikin</h3>
 										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/daikin.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Копия Daikin">
 									</div>
 									<div class="carousel-text">
-										<h3>Mitsubishi Electric</h3>
-										<p>Мицубиси Электрик» — глобальный лидер в области электроники и электронного оборудования</p>
+										<h3>Копия Daikin</h3>
+										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/kopiya-daikin.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
 									</div>
 									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
+										<h3>Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/korf.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
+<div class="carousel-item">
 								<div class="carousel-wrap">
 									<div class="car-img-wrap">
 										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
+										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Копия Korf">
 									</div>
 									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
+										<h3>Копия Korf</h3>
+										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
 									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
+									<a href="oborudovanie/kopiya-korf.html" class="button button-small button-gray">Перейти в каталог</a>
 								</div>
 							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
+						    
 						</div>
 
 					</div>
@@ -3629,91 +3782,16 @@
 				<div class="col-sm-12">
 					<div class="row">
 						<div class="carousel-eq">
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
-									</div>
-									<div class="carousel-text">
-										<h3>Korf</h3>
-										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Daikin">
-									</div>
-									<div class="carousel-text">
-										<h3>Daikin</h3>
-										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
-									</div>
-									<div class="carousel-text">
-										<h3>Mitsubishi Electric</h3>
-										<p>Мицубиси Электрик» — глобальный лидер в области электроники и электронного оборудования</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
+						    
+						    [[pdoResources?
+						    &parents=`7`
+						    &depth=`0`
+						    &tpl=`eqItem`
+						    &includeTVs=`image`
+						    &processTVs=`image`
+						    &limit=`0`
+						    &includeContent=`1`]]
+						    
 						</div>
 
 					</div>
@@ -3725,7 +3803,9 @@
 
 	</section>',
           'locked' => false,
-          'properties' => NULL,
+          'properties' => 
+          array (
+          ),
           'static' => false,
           'static_file' => '',
           'content' => '<section class="s-wide s-equipment">
@@ -3740,91 +3820,16 @@
 				<div class="col-sm-12">
 					<div class="row">
 						<div class="carousel-eq">
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/korf.svg" alt="Korf">
-									</div>
-									<div class="carousel-text">
-										<h3>Korf</h3>
-										<p>Российский производитель качественного оборудования с 13-ти летним стажем</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/daikin.svg" alt="Daikin">
-									</div>
-									<div class="carousel-text">
-										<h3>Daikin</h3>
-										<p>Компания Daikin является лидером на рынке экологично безопасных систем отопления, вентиляции и кондиционирования</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/mitsubishi.svg" alt="Mitsubishi Electric">
-									</div>
-									<div class="carousel-text">
-										<h3>Mitsubishi Electric</h3>
-										<p>Мицубиси Электрик» — глобальный лидер в области электроники и электронного оборудования</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
-							<div class="carousel-item">
-								<div class="carousel-wrap">
-									<div class="car-img-wrap">
-										<img class="responsive-img" src="assets/app/img/bg-car.png" alt="bg-carousel">
-										<img class="responsive-img img-svg" src="assets/app/img/partners/venterra.svg" alt="Venterra">
-									</div>
-									<div class="carousel-text">
-										<h3>Venterra</h3>
-										<p>Оборудование VENTERRA производится на заводах лучших мировых производителей с учетом сложных климатических условий нашей страны.</p>
-									</div>
-									<a href="#" class="button button-small button-gray">Перейти в каталог</a>
-								</div>
-							</div>
-
+						    
+						    [[pdoResources?
+						    &parents=`7`
+						    &depth=`0`
+						    &tpl=`eqItem`
+						    &includeTVs=`image`
+						    &processTVs=`image`
+						    &limit=`0`
+						    &includeContent=`1`]]
+						    
 						</div>
 
 					</div>
